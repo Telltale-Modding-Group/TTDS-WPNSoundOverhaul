@@ -9,3 +9,5 @@
 This mod replaces most of the weapon sounds in the TWD Definitive Series Season One and Two with more rich and punchier sounds. An example can be found here on the original Reddit post. As of the current **Version v2.0** it replaces a majority of the weapon handling/loading/firing sounds for both season one and two.
 
 **I should note this mod only works with the Telltale Walking Dead Definitive Series.**
+
+![Thumbnail](thumb_wpnsounds.png)
