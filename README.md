@@ -12,4 +12,5 @@ This mod replaces most of the weapon sounds in the TWD Definitive Series Season 
 
 **If you wish to get the mod, get it [HERE](https://github.com/changemymindpls/TTDS-WPNSoundOverhaul/releases/tag/v2.0.0) and install using the [Telltale Mod Launcher](https://github.com/Telltale-Modding-Group/TelltaleModLauncher).**
 
-![Thumbnail](thumb_wpnsounds.png)
+![Thumbnail1](thumb_wpnsounds.png)
+![Thumbnail2](launchersnap.png)
